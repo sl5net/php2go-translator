@@ -1,0 +1,4 @@
+[submodule "SL5_preg_contentFinder"]
+	path = SL5_preg_contentFinder
+	url = https://github.com/sl5net/SL5_preg_contentFinder
+	branch = master

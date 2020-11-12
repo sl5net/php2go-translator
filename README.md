@@ -8,6 +8,9 @@ PHP to golang translator.
 - Google's GWT "compiles" Java to JavaScript
 - Facebook's hiphop compiles PHP into C.
 
+1.
+
+
 ## discussions about somewhat similar idear:
 
 "... Translating from a more-structured language to a less-structured language that is still Turing-complete, is always possible.  ..."
