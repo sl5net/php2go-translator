@@ -24,3 +24,8 @@ https://softwareengineering.stackexchange.com/questions/12475/why-arent-there-au
 ### installation ? tools?
 
 https://lornajane.net/posts/2016/php-7-0-and-5-6-on-ubuntu
+
+<pre>
+see example Reformatting_Autohotkey_Source.php
+php2go-translator/SL5_preg_contentFinder/examples/AutoHotKey/Reformatting_Autohotkey_Source.php
+</pre>
